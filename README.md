@@ -1,7 +1,7 @@
-Simple Snake Game with Advanced Features
+#Simple Snake Game with Advanced Features
 This project is a modern take on the classic Snake game, enhanced with exciting features and advanced programming techniques:
 
-Key Features
+#Key Features
 Shortest Path Visualization:
 
 When the snake eats food, the shortest path from the snake's current location to the food is calculated using the A search algorithm*.
