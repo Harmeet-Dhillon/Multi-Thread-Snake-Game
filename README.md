@@ -15,3 +15,4 @@ If the snake touches the entry of the green path, it switches to autonomous mode
 Efficient Memory Management:
 
 The game utilizes smart pointers to efficiently manage resources for the snake and path objects.
+![Screenshot from 2024-12-28 21-20-10](https://github.com/user-attachments/assets/9e2a3aff-8c16-4777-8f1d-0c5b33282143)
